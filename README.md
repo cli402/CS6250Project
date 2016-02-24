@@ -18,14 +18,14 @@ made based on the current network states.
 >3. Interesting to see that with a static network topology, neural network got a significant improvement of the routing calculation time
  
 #####Simulation Tools
--Mininet 
--Link Layer Forwarding (L2)
--Pyretic Controller
--Generate Random Traffic     :    "iperf"
--Measure Traffic                      :    "bwm-ng"
--Heuristic                                   :    Backtracking
--Machine Learning                   :    Neural Network (Pybrain)
--* Smaller Graphs (Computation Constraint)
+1. Mininet 
+2. Link Layer Forwarding (L2)
+3. Pyretic Controller
+4. Generate Random Traffic     :    "iperf"
+5. Measure Traffic                      :    "bwm-ng"
+6. Heuristic                                   :    Backtracking
+7. Machine Learning                   :    Neural Network (Pybrain)
+8. * Smaller Graphs (Computation Constraint)
 
 
 ## To set up pyretic for running switch, do
